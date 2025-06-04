@@ -7,6 +7,75 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sakshi-Srivastava19&label=Profile%20views&color=0e75b6&style=flat)
 
+# 👩‍💻 Sakshi Srivastava — Data Scientist Portfolio
+
+Welcome to my Data Science and AI portfolio! I'm Sakshi Srivastava, a passionate Data Scientist with expertise in Machine Learning, Deep Learning, NLP, and AI-driven web applications.
+
+---
+
+## 📬 About Me
+
+A graduate student (MCA, SRM Institute — 2026) with hands-on experience in solving real-world data problems through predictive modeling, data visualization, and AI deployment. I'm excited by challenges that demand creativity and analytical rigor.
+
+---
+
+## 🧠 Core Skills
+
+* **Programming**: Python, SQL, C++, R
+* **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+* **Data Visualization**: Power BI, Streamlit, Gradio
+* **NLP & AI**: NLTK, LangChain, RAG, Transformers
+* **Version Control**: Git, GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔍 [Plant Disease Detection System](https://github.com/Sakshi-Srivastava19/PLANT-DISEASE-PREDICTION)
+
+* Built a CNN-based Streamlit web app to classify 38 plant diseases (87K+ images).
+* Delivered real-time predictions to support farmers with quick diagnostics.
+
+### 🎬 [Movie Recommendation System](https://github.com/Sakshi-Srivastava19/MOVIE_RECOMMENDATION-SYSTEM-TMDB-)
+
+* Content-based filtering engine using cosine similarity on metadata of 5,000+ movies.
+* Implemented API optimization and UI performance enhancements.
+
+### 🔒 [Fraud Detection System](https://github.com/Sakshi-Srivastava19/Fraud-Detection-System)
+
+* Used Decision Trees & Random Forests to classify 6.3M financial transactions.
+* Delivered actionable fraud patterns with high predictive accuracy.
+
+### 📈 [COVID-19 Forecasting](https://github.com/Sakshi-Srivastava19/COVID_19-CAPSTONE-PROJECT-)
+
+* Used Facebook Prophet to forecast global COVID trends with 90%+ accuracy.
+* Insights used for hypothetical healthcare planning.
+
+### 💸 [Power BI Student Spending Dashboard](https://github.com/Sakshi-Srivastava19/capstone_project1-PowerBI-/blob/main/Project-1.pdf)
+
+* Created interactive Power BI report analyzing 10K+ transactions.
+* Improved marketing strategy for student-targeted campaigns by 10%.
+
+---
+
+## 🧾 Certifications
+
+* Data Science — Intellipaat (2025)
+* Data Analysis with Python — IBM (2025)
+* Generative AI — Microsoft & Edunet (2025)
+* SQL & Python (Basic) — HackerRank (2025)
+* Power BI — Intellipaat (2025)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [sakshianujay341@gmail.com](mailto:sakshianujay341@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-srivastava-59a3b3313/)
+* 💻 [GitHub](https://github.com/Sakshi-Srivastava19)
+
+Let's build something amazing with data!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-srivastava-59a3b3313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshianujay341@gmail.com) 
