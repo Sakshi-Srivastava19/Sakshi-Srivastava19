@@ -60,23 +60,23 @@ A graduate student (MCA, SRM Institute — 2026) with hands-on experience in sol
 
 ## 🧾 Certifications
 
-* Data Science — Intellipaat (2025)
-* Data Analysis with Python — IBM (2025)
-* Generative AI — Microsoft & Edunet (2025)
-* SQL & Python (Basic) — HackerRank (2025)
-* Power BI — Intellipaat (2025)
+•	Data Science – Intellipaat | (MAY23,2025) LINK
+•	AI and Data Scientist – OneRoadmap | (MAY 17,2025) LINK
+•	Power BI course – Intellipaat | (Jan 2025 – 5 Feb 2025) LINK
+•	Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage – Tata Group | (May 2025) LINK
+•	Data Analytics and Visualization Job Simulation – Accenture | (MAY 05, 2025) 
+•	Data Analysis with Python – IBM| (APR 05,2025) LINK
+•	Data Analyst Certification – OneRoadmap | (APR 03,2025) LINK
+•	Python Certification – OneRoadmap | (APR 03,2025) LINK
+•	ChatGPT for Data Analytics – Simplilearn | (MAR 31, 2025) LINK
+•	Free python matplotlib course– Intellipaat | (MAR 18, 2025) LINK
+•	Python for data science free course – Intellipaat | (MAR 18, 2025) LINK
+•	SQL Basic Certification – HackerRank | (MAR 16, 2025) LINK
+•	Python Basic Certification – HackerRank | (MAR 15, 2025) LINK
+•	Python for Data Science – IBM | (JUL 2024 – AUG 21, 2024) LINK
+•	Microsoft SQL Certification Training– Intellipaat | (JUN 12, 2024-OCT 16, 2024) LINK
 
 ---
-
-## 📫 Connect With Me
-
-* 📧 Email: [sakshianujay341@gmail.com](mailto:sakshianujay341@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-srivastava-59a3b3313/)
-* 💻 [GitHub](https://github.com/Sakshi-Srivastava19)
-
-Let's build something amazing with data!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-srivastava-59a3b3313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshianujay341@gmail.com) 
 
