@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine learning, Deep learning and AI
 - 🌱 I’m currently learning Datascience and AI
 - 💞️  I love to discover insights from data.
-- 📫 How to reach me through my email : sakshianujay341@gmail.com
 - 😄 Pronouns: she/her
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sakshi-Srivastava19&label=Profile%20views&color=0e75b6&style=flat)
@@ -24,15 +23,6 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakshi-Srivastava19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sakshi-Srivastava19&icon=7&color=4)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sakshi-Srivastava19) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
