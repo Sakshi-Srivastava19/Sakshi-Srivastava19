@@ -1,27 +1,99 @@
-- 👋 Hi, I’m @Sakshi-Srivastava19
-- 👀 I’m interested in Machine learning, Deep learning and AI
-- 🌱 I’m currently learning Datascience and AI
-- 💞️  I love to discover insights from data.
-- 😄 Pronouns: she/her
+# Hi there 👋, I'm **Sakshi Srivastava**
 
-![Profile views](https://komarev.com/ghpvc/?username=Sakshi-Srivastava19&label=Profile%20views&color=0e75b6&style=flat)
+### 🚀 AI | Machine Learning | Data Science Enthusiast
 
+I'm an MCA student passionate about building AI-powered applications that solve real-world problems. I enjoy working with Machine Learning, Deep Learning, Data Analytics, and Generative AI while continuously exploring new technologies.
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-srivastava-59a3b3313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshianujay341@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sakshi-Srivastava19&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sakshi-Srivastava19&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Srivastava19&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👩‍💻 About Me
 
+* 🎓 MCA Student
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**
+* 🌱 Currently learning **Advanced Machine Learning, Generative AI, and Full-Stack Development**
+* 📊 Passionate about turning raw data into meaningful insights
+* 💡 Love building real-world AI applications
+* 🔍 Always curious to learn new technologies and contribute to open-source projects
+* 😄 Pronouns: **She/Her**
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+---
 
-<!---
-Sakshi-Srivastava19/Sakshi-Srivastava19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* SQL
+* C++
+* Java
+
+### AI & Data Science
+
+* Machine Learning
+* Deep Learning
+* Pandas
+* NumPy
+* Scikit-learn
+* TensorFlow
+* Keras
+* XGBoost
+* OpenCV
+
+### Data Visualization
+
+* Power BI
+* Tableau
+* Matplotlib
+* Excel
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Linux
+* Streamlit
+* FastAPI
+* React
+* Docker
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sakshi-srivastava-59a3b3313)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sakshianujay341@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sakshi-Srivastava19\&theme=tokyonight\&show_icons=true\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Srivastava19\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Srivastava19\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Sakshi-Srivastava19\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+---
+
+## ✨ Quote
+
+> *"Success is built one commit, one project, and one learning at a time."*
+
+---
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
